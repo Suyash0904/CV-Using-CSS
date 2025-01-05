@@ -1,0 +1,214 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    
+}
+
+body{
+    margin: 0px auto;
+    max-width: 1500px;
+}
+
+.intro{
+    padding: 50px;
+    height:200px;
+    background-color: #1D4E79;
+    color: aliceblue;
+    h1{
+        font-size: 50px;
+    }  
+    p{
+        width: 500px;
+    }
+}
+
+#cvimage{
+    border-color: rgb(21, 1, 1);
+    border-radius: 5px;
+    border-style: solid;
+    object-fit: cover;
+}
+
+.experience{
+    margin-top: 30px;
+}
+
+.workexp{
+    border-bottom: 2px solid #1D4E79;
+    margin-right: 50px;
+}
+
+#exp{
+    background-color: #1D4E79;
+    color: aliceblue;
+    font-size: 15px;
+    
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#job1{
+    padding-left: 60px;
+} 
+
+#job1c{
+    padding-left: 0px;   
+}
+
+#job1d{
+    padding-left: 50px;   
+    margin-left: 23px;
+}
+
+#job1desc{
+   margin-left: 10px;
+   margin-right: 50px;
+   margin-right: 200px;
+}
+
+#job2{
+    padding-left: 60px;
+    padding-top: 30px;
+} 
+
+#job2c{
+    padding-left: 0px;
+    padding-top: 30px;   
+}
+
+#job2d{
+    padding-left: 50px;  
+    margin-left: 23px; 
+}
+
+#job2desc{
+   margin-left: 10px;
+   margin-right: 50px; 
+   margin-right: 200px;
+}
+
+
+
+
+.education{
+    margin-top: 30px;
+}
+
+.education1{
+    border-bottom: 2px solid #1D4E79;
+    margin-right: 50px;
+}
+
+#edu{
+    background-color: #1D4E79;
+    color: aliceblue;
+    font-size: 15px;
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#edu1{
+    padding-left: 60px;
+    padding-top: 30px;
+} 
+
+#edu1c{
+    padding-left: 0px;
+    padding-top: 30px;   
+}
+
+#edu1d{
+    margin-left: 50px; 
+    text-align: center;  
+    margin-left: 90px;
+}
+
+#edu1desc{
+   margin-left: 10px;
+   margin-right: 50px;
+   margin-right: 210px;
+}
+
+
+#edu2{
+    padding-left: 60px;
+    padding-top: 30px;
+} 
+
+#edu2c{
+    padding-left: 0px;
+    padding-top: 30px;   
+}
+
+#edu2d{
+    margin-left: 50px; 
+    text-align: center;  
+    margin-left: 90px;
+}
+
+#edu2desc{
+   margin-left: 10px;
+   margin-right: 50px;
+   margin-right: 210px;
+}
+
+#edu3{
+    padding-left: 60px;
+    padding-top: 30px;
+    margin-left: 20px;
+} 
+
+#edu3c{
+    padding-left: 0px;
+    padding-top: 30px;
+    margin-right: 150px;   
+}
+
+#edu3d{
+    margin-left: 50px; 
+    text-align: center;
+    margin-left: 85px;
+}
+
+#edu3desc{
+   margin-left: 10px;
+   margin-right: 50px;
+   margin-right: 240px;
+}
+
+.communication{
+    margin-top: 30px;
+}
+
+.communication1{ 
+    border-bottom: 2px solid #1D4E79;
+    margin-right: 50px;
+}
+
+#comm{
+    background-color: #1D4E79;
+    color: aliceblue;
+    font-size: 15px;
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 55px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#comm1{
+    padding-left: 55px;
+    padding-right: 30px;
+    padding-top: 10px;
+    font-size: 18px;
+    padding-bottom: 50px;
+    margin-right: 50px;
+}
+
